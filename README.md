@@ -4,7 +4,7 @@
 
 ### Parte 0: Implementación de referencia
 
-Ver la carpeta `/src/monticulo` para una implementación de referencia de Montículo de Máximo, junto a sus tests.
+Ver la carpeta `/src/monticulo` para una implementación de referencia de Montículo de Máximo, junto a sus tests. También se provee una implementación de referencia para Montículo de Mínimo.
 
 #### Ejecutar tests
 
