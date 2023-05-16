@@ -33,14 +33,14 @@ Dado el siguiente montículo de MÁXIMO (del cual sólo se muestran las priorida
 
 Dado un Montículo de MÁXIMO:
 
-6. Escriba un constructor alternativo `NuevoMonticuloMaxDesdeArreglo` que tome como parámetro un arreglo desordenado de elementos y devuelva un montículo que contenga esos elementos.
+3. Escriba un constructor alternativo `NuevoMonticuloMaxDesdeArreglo` que tome como parámetro un arreglo desordenado de elementos y devuelva un montículo que contenga esos elementos.
 
-7. Escriba una función que, dado un Montículo de tamaño M y un número entero n, con n >= 1 y n <= M,
+4. Escriba una función que, dado un Montículo de tamaño M y un número entero n, con n >= 1 y n <= M,
 devuelva el enésimo máximo del montículo. (Ej: si n == 1, devolver el primer máximo.)
 
-8. Escriba una función que, dados dos montículos, devuelva un tercero que sea la combinación de ambos.
+5. Escriba una función que, dados dos montículos, devuelva un tercero que sea la combinación de ambos.
 
 
 ### Ejercicios extra
 
-9. Resuelva los puntos anteriores de la Parte II para la Montículo de MÍNIMO.
+6. Resuelva los puntos anteriores de la Parte II para la Montículo de MÍNIMO.
