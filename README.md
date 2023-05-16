@@ -29,17 +29,7 @@ Dado el siguiente montículo de MÁXIMO (del cual sólo se muestran las priorida
    10, 12, 1, 14, 6, 5, 8, 15, 3, 9, 7, 4, 11, 13, 2. EliminarMín, EliminarMín.
 
 
-### Parte II: Inserciones Amañadas
-
-Dado un Montículo de MÁXIMO y la siguiente secuencia de inserción (de la cual sólo conocemos las prioridades de los elemntos):
-10, 12, 1, 14, 6, 5, 8, 15, 3, 9, 7, 4, 11.
-
-4. Asigneles prioridades tales que al insertarlos en ese orden, sean extraídos en el mismo orden en que fueron ingresados.
-
-5. Asigneles prioridades tales que al insertarlos en ese orden, sean extraídos en orden inverso al que fueron ingresados.
-
-
-### Parte III: Modificando Montículos
+### Parte II: Modificando Montículos
 
 Dado un Montículo de MÁXIMO:
 
@@ -53,4 +43,4 @@ devuelva el enésimo máximo del montículo. (Ej: si n == 1, devolver el primer 
 
 ### Ejercicios extra
 
-9. Resuelva los puntos anteriores de las Partes II y III para la Montículo de MÍNIMO.
+9. Resuelva los puntos anteriores de la Parte II para la Montículo de MÍNIMO.
