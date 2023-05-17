@@ -44,3 +44,4 @@ devuelva el enésimo máximo del montículo. (Ej: si n == 1, devolver el primer 
 ### Ejercicios extra
 
 6. Resuelva los puntos anteriores de la Parte II para la Montículo de MÍNIMO.
+7. Aprovechando los tests provistos para la implementación de MÁXIMO, y basandose en el pseudocódigo de las filminas, reimplemente desde cero los métodos `upHeap` y `downHeap` (¡de a uno a la vez!). Esto le facilitará comprender mejor el funcionamiento interno de ambos métodos.
