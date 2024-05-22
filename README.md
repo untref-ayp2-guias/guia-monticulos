@@ -1,17 +1,6 @@
-# Guía 15
-
-## Desafíos con Montículos
-
-### Parte 0: Implementación de referencia
-
-Ver la carpeta `/src/monticulo` para una implementación de referencia de Montículo de Máximo, junto a sus tests. También se provee una implementación de referencia para Montículo de Mínimo.
-
-#### Ejecutar tests
-
-    % go test ./...
-
+# Guía Heap (Montículos)
+## Ejercicios
 ### Parte I: Seguimientos
-
 
 Dado el siguiente montículo de MÁXIMO (del cual sólo se muestran las prioridades de sus elementos):
 ```
@@ -39,7 +28,6 @@ Dado un Montículo de MÁXIMO:
 devuelva el enésimo máximo del montículo. (Ej: si n == 1, devolver el primer máximo.)
 
 5. Escriba una función que, dados dos montículos, devuelva un tercero que sea la combinación de ambos.
-
 
 ### Ejercicios extra
 
