@@ -33,3 +33,4 @@ devuelva el enésimo máximo del montículo (Ej: si n == 1, devolver el primer m
 
 6. Resuelva los puntos anteriores de la Parte II para la Montículo de MÍNIMO.
 
+7. Implementar una Cola de Prioridad utilizada en una clínica de emergencias. La misma debe tener la capacidad de agregar pacientes con su respectiva prioridad (un número entero, donde un número mayor indica mayor prioridad) y de atender al paciente con mayor prioridad. Utilizar un montículo genérico para implementar la cola de prioridad. Escriba los tests correspondientes (al menos 3).
